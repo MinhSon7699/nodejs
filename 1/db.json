@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "nam",
+      "id": "euasxTi6r"
+    },
+    {
+      "name": "linh",
+      "id": "ZvY-Ej06j"
+    },
+    {
+      "name": "đạt",
+      "id": "v2oyJaJeg"
+    },
+    {
+      "name": "Dương Minh Sơn",
+      "phone": "123",
+      "id": "EvUBq0Mbo"
+    },
+    {
+      "name": "ấd",
+      "phone": "123",
+      "id": "uU5Pbg590"
+    },
+    {
+      "name": "gao đỏ",
+      "phone": "456789",
+      "id": "t1bktPN-5"
+    }
+  ]
+}
